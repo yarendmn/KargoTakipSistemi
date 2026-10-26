@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:kargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\cargos\\uluslararasikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:cargos\\uluslararasikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\cargos\\hizlikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:cargos\\hizlikargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\cargos\\standartkargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:cargos\\standartkargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\kargosistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:kargosistemi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|c:\\users\\fmmer\\source\\repos\\kargosistemi\\interface\\itakipedilebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FA4FF-33C3-4F33-B305-DF6E23BE5EF1}|KargoSistemi.csproj|solutionrelative:interface\\itakipedilebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwIsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T19:57:20.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HizliKargo.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Cargos\\HizliKargo.cs",
+              "RelativeDocumentMoniker": "Cargos\\HizliKargo.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Cargos\\HizliKargo.cs",
+              "RelativeToolTip": "Cargos\\HizliKargo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:34:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kargo.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Kargo.cs",
+              "RelativeDocumentMoniker": "Kargo.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Kargo.cs",
+              "RelativeToolTip": "Kargo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:00:22.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UluslararasiKargo.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Cargos\\UluslararasiKargo.cs",
+              "RelativeDocumentMoniker": "Cargos\\UluslararasiKargo.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Cargos\\UluslararasiKargo.cs",
+              "RelativeToolTip": "Cargos\\UluslararasiKargo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:44:08.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandartKargo.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Cargos\\StandartKargo.cs",
+              "RelativeDocumentMoniker": "Cargos\\StandartKargo.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Cargos\\StandartKargo.cs",
+              "RelativeToolTip": "Cargos\\StandartKargo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T21:23:21.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KargoSistemi",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\KargoSistemi.csproj",
+              "RelativeDocumentMoniker": "KargoSistemi.csproj",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\KargoSistemi.csproj",
+              "RelativeToolTip": "KargoSistemi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-16T21:22:08.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITakipEdilebilir.cs",
+              "DocumentMoniker": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Interface\\ITakipEdilebilir.cs",
+              "RelativeDocumentMoniker": "Interface\\ITakipEdilebilir.cs",
+              "ToolTip": "C:\\Users\\fmmer\\source\\repos\\KargoSistemi\\Interface\\ITakipEdilebilir.cs",
+              "RelativeToolTip": "Interface\\ITakipEdilebilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T20:58:52.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
